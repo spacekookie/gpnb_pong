@@ -76,8 +76,6 @@ void initialise(const char *name) {
 void setup() {
   initialise("Pong!\n");
 
-  // <3 Liebe dich :*
-
   screen.setTextSize(1);
   screen.setTextColor(iconcolor);
 }
